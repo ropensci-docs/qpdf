@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "4bbe66294536df8c4791964548ea39dc5f5852dc",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2021-04-23 07:34:13",
+    "files": 2,
+    "merge": false,
+    "message": "Bump version\n"
+  },
+  "remote": "https://github.com/ropensci/qpdf",
+  "pkg": "qpdf"
+}
