@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "b5053559dc183ca194ace32fcec0de33bdae7dfe",
+    "author": "Jeroen Ooms <jeroenooms@gmail.com>",
+    "time": "2026-03-12T22:26:43Z",
+    "files": 1,
+    "merge": false,
+    "message": "Update CI\n"
+  },
+  "repo": "https://github.com/ropensci/qpdf",
+  "pkg": "qpdf",
+  "time": "2026-08-31T10:18:02Z"
+}
